@@ -1,0 +1,19 @@
+{
+  "name": "booktrack-backend",
+  "version": "1.0.0",
+  "description": "node server for booktrack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikaii/booktrack-backend.git"
+  },
+  "author": "Malick Ouedraogo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikaii/booktrack-backend/issues"
+  },
+  "homepage": "https://github.com/malikaii/booktrack-backend#readme"
+}
